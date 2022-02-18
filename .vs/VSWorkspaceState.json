@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DuplicateFinder",
+    "\\DuplicateFinder\\DuplicateFinder.Console",
+    "\\DuplicateFinder\\DuplicateFinderWPF",
+    "\\DuplicateFinder\\DuplicateFinderWPF\\ViewModels"
+  ],
+  "SelectedNode": "\\DuplicateFinder\\DuplicateFinder.Console\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

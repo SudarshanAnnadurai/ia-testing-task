@@ -15,7 +15,17 @@
       "ProjectGuid": "57ff726a-41ec-4c50-8611-b211dc2d5255",
       "DisplayName": "DuplicateFinderWPF",
       "ColorIndex": 2
+    },
+    "5816e0af-e8d6-4aaa-8ae2-34d51811800b": {
+      "ProjectGuid": "5816e0af-e8d6-4aaa-8ae2-34d51811800b",
+      "DisplayName": "Unittest",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

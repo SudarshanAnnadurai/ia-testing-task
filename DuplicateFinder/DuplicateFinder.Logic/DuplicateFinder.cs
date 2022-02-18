@@ -169,7 +169,7 @@ namespace DuplicateFinder.Logic
         {
             subDirectories = directoryInfo.GetDirectories();
 
-            FileList = new List<FileInfo>();
+            List<FileInfo> FileList = new List<FileInfo>();
             for (int fileIndex = 0; fileIndex < directoryInfo.GetFiles().Length; fileIndex++)
             {
                 FileList.Add(directoryInfo.GetFiles()[fileIndex]);

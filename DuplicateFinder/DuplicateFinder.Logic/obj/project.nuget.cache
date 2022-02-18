@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HxGeoTM0rrnUsb86O1Av89wkbGT9gSOcPtXUmSMuC1O6IdhQJV4WtRUc358sMRrrNnRMs4rPhciG5P7p/tcI4g==",
+  "dgSpecHash": "o74D1AAvvCbWEWJi3rnrO4bpHQCC/4BPs11acFXqserFM5EmLeHpBSmpXh6DKJ+lQ6P9Td7fVfUwES8VzecQaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.milagres\\Documents\\Software\\DuplicateFinder-Adrian\\DuplicateFinder\\DuplicateFinder.Logic\\DuplicateFinder.Logic.csproj",
+  "projectFilePath": "C:\\Users\\savit\\source\\repos\\SudarshanAnnadurai\\ia-testing-task\\DuplicateFinder\\DuplicateFinder.Logic\\DuplicateFinder.Logic.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lucas.milagres\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\savit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\savit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
