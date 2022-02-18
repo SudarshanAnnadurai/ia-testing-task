@@ -1,0 +1,3 @@
+﻿sameSize1\sizeFile1.txt
+sizeFile2.txt
+sizeFile3.txt
